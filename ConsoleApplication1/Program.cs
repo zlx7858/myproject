@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         {
             Console.Write("Hello Word!");
             Console.Write("111");
+            string a = string.Empty;
         }
     }
 }
